@@ -1,0 +1,54 @@
+{
+  "recommendations": [
+    // my extensions
+    "octohash.crosside-sync",
+    "octohash.crosside-code-finder",
+    "octohash.powermode-plus",
+    "octohash.zen-tabs",
+    "octohash.auto-chat-blocker",
+    // themes & icons
+    "antfu.theme-vitesse",
+    "antfu.icons-carbon",
+    "catppuccin.catppuccin-vsc",
+    "catppuccin.catppuccin-vsc-icons",
+    "file-icons.file-icons",
+    "be5invis.vscode-custom-css",
+    // enhancements
+    "antfu.file-nesting",
+    "antfu.smart-clicks",
+    "antfu.where-am-i",
+    "editorconfig.editorconfig",
+    "tamasfe.even-better-toml",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    // frontend
+    "vue.volar",
+    "antfu.unocss",
+    "antfu.iconify",
+    "antfu.goto-alias",
+    "antfu.pnpm-catalog-lens",
+    "lokalise.i18n-ally",
+    "bradlc.vscode-tailwindcss",
+    "naumovs.color-highlight",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    // python
+    "ms-python.python",
+    "ms-python.debugpy",
+    "charliermarsh.ruff",
+    // git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "fabiospampinato.vscode-open-in-github",
+    "antfu.open-in-github-button",
+    // misc
+    "wakatime.vscode-wakatime",
+    "wmaurer.change-case",
+    "adpyke.codesnap",
+    "antfu.retypewriter",
+    "rimuruchan.vscode-fix-checksums-next",
+  ]
+}
