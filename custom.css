@@ -1,0 +1,33 @@
+.editor .tabs {
+  background-color: transparent !important;
+}
+
+/* sidebar icon align left */
+#workbench\.parts\.sidebar >div >div >div >div >div {
+  justify-content: left !important;
+}
+
+.split-view-container,
+.tabs *,
+.statusbar *,
+.explorer-folders-view *,
+.search-view *,
+.tree-explorer-viewlet-tree-view *,
+.quick-input-widget *,
+.notification-toast *,
+.welcome-view *,
+.scm-view *,
+.scm-editor *,
+.extensions-viewlet * {
+  font-family: 'Dank Mono', monospace !important;
+}
+
+.codicon {
+  font-family: codicon !important;
+}
+
+/* codicon-source-control-view-icon */
+.codicon-default-view-icon::before {
+  content: '\e08b' !important;
+  font-family: 'pi-icons-carbon' !important;
+}
