@@ -1,0 +1,50 @@
+{
+  "recommendations": [
+    // my extensions
+    "octohash.crosside-sync",
+    "octohash.crosside-recently-codes",
+    "octohash.zen-tabs",
+    // themes & icons
+    "file-icons.file-icons",
+    "catppuccin.catppuccin-vsc",
+    "catppuccin.catppuccin-vsc-icons",
+    "sainnhe.gruvbox-material",
+    "antfu.theme-vitesse",
+    "antfu.icons-carbon",
+    "hoovercj.vscode-power-mode",
+    "be5invis.vscode-custom-css",
+    // enhancements
+    "antfu.file-nesting",
+    "antfu.pnpm-catalog-lens",
+    "antfu.goto-alias",
+    "antfu.smart-clicks",
+    "antfu.where-am-i",
+    "editorconfig.editorconfig",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "kamikillerto.vscode-colorize",
+    "vunguyentuan.vscode-css-variables",
+    // linters
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    // intellisense
+    "vue.volar",
+    "bradlc.vscode-tailwindcss",
+    "antfu.unocss",
+    "antfu.iconify",
+    "lokalise.i18n-ally",
+    // git tools
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    // misc
+    "wakatime.vscode-wakatime",
+    "gruntfuggly.todo-tree",
+    "wmaurer.change-case",
+    "adpyke.codesnap",
+    "mondersky.installation-corrupt-remover"
+  ]
+}
