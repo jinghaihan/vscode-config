@@ -1,0 +1,66 @@
+/* ------------ Reset Font Family ------------ */
+.mac,
+.windows,
+.linux {
+  font-family: Input, monospace;
+} 
+
+.monaco-mouse-cursor-text,
+.editorPlaceholder {
+  font-family: Input, monospace !important;
+} 
+
+/* ------------ Sidebar ------------ */
+/* sidebar icon align left */
+#workbench\.parts\.sidebar > div > div > div > div > div {
+  justify-content: left !important;
+}
+
+/* codicon-source-control-view-icon */
+.codicon-default-view-icon::before {
+  content: '\e046' !important;
+  font-family: 'pi-icons-carbon' !important;
+}
+
+/* ------------ Editor Tabs ------------ */
+.editor .tabs {
+  background-color: transparent !important;
+}
+
+/* ------------ Editor Screen ------------ */
+/* fix power mode combo meter position */
+/* .monaco-editor .lines-content > .view-lines > .view-line > span {
+  width: inherit;
+} */
+
+.line-numbers {
+  transform: scale(1);
+  transition: all 10 linear;
+}
+
+.line-numbers.active-line-number {
+  transform: scale(1.25) translateX(-3px);
+  animation: .2s ease-out scaleSize;
+}
+
+@keyframes scaleSize {
+  0% {
+    transform: scale(.75)
+  }
+
+  100% {
+    transform: scale(1.25) translateX(-3px);
+  }
+}
+
+#bg-blur {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, .15);
+  backdrop-filter: blur(6px);
+  transition: all 1s ease-in;
+}

@@ -1,0 +1,43 @@
+{
+  "recommendations": [
+    // my extensions
+    "octohash.crosside-sync",
+    "octohash.crosside-code-finder",
+    "octohash.reactive-theme-settings",
+    "octohash.zen-tabs",
+    // themes & icons
+    "github.github-vscode-theme",
+    "antfu.icons-carbon",
+    "catppuccin.catppuccin-vsc-icons",
+    "be5invis.vscode-custom-css",
+    // intellisense
+    "vue.volar",
+    "antfu.unocss",
+    "antfu.iconify",
+    "antfu.slidev",
+    "bradlc.vscode-tailwindcss",
+    "hyoban.tailwindcss-classname-highlight",
+    "editorconfig.editorconfig",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    // enhancement
+    "antfu.where-am-i",
+    "antfu.smart-clicks",
+    "antfu.file-nesting",
+    "antfu.pnpm-catalog-lens",
+    "naumovs.color-highlight",
+    // linter
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    // git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "fabiospampinato.vscode-open-in-github",
+    "antfu.open-in-github-button",
+    // misc
+    "wakatime.vscode-wakatime",
+    "wmaurer.change-case",
+    "adpyke.codesnap",
+    "github.copilot-chat"
+  ]
+}
