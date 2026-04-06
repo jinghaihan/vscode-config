@@ -1,0 +1,51 @@
+{
+  "recommendations": [
+    // my extensions
+    "octohash.crosside-sync",
+    "octohash.crosside-code-finder",
+    "octohash.reactive-theme-settings",
+    "octohash.zen-tabs",
+    // themes & icons
+    "antfu.theme-vitesse",
+    "antfu.icons-carbon",
+    "thang-nm.flow-icons",
+    "be5invis.vscode-custom-css",
+    // intellisense
+    "vue.volar",
+    "astro-build.astro-vscode",
+    "antfu.unocss",
+    "antfu.iconify",
+    "antfu.slidev",
+    "unifiedjs.vscode-mdx",
+    "bradlc.vscode-tailwindcss",
+    "hyoban.tailwindcss-classname-highlight",
+    "editorconfig.editorconfig",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "qiu8310.minapp-vscode",
+    // enhancement
+    "antfu.where-am-i",
+    "antfu.smart-clicks",
+    "antfu.file-nesting",
+    "antfu.pnpm-catalog-lens",
+    "naumovs.color-highlight",
+    "npmx-dev.vscode-npmx",
+    // linter
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    // git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "fabiospampinato.vscode-open-in-github",
+    "antfu.open-in-github-button",
+    // coding agents
+    "github.copilot-chat",
+    "openai.chatgpt",
+    "anthropic.claude-code",
+    "codeium.codeium",
+    // misc
+    "wakatime.vscode-wakatime",
+    "wmaurer.change-case",
+    "adpyke.codesnap"
+  ]
+}
